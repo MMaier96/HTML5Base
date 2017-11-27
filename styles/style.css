@@ -1,0 +1,7 @@
+/* Base Stylesheet */
+
+
+*{ /* remove base margins and paddings */
+	margin: 0px;
+	padding: 0px;
+}
